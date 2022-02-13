@@ -16,7 +16,7 @@
 
 ## 참여자
 - 김태희: https://github.com/TaeheeKim15
-- 유지연: https://github.com/jiyounyou
+- 유지연: https://github.com/jiyoun-yoo
 
 
 ## 구현 방식
